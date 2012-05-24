@@ -1,0 +1,25 @@
+#summary manuel d'installation et d'utilisation.
+
+= Introduction =
+
+1.Utilisation
+2.Plus d'infos pour les utilisateurs de windows...
+
+= Details =
+1.Utilisation
+Les pre requis:
+un ordinateur
+un jre 5 minimum
+ouvrir une console (cmd.exe ou bash selon les gouts...)
+taper : java -jar ./loupArdent.jar
+
+2.Plus d'infos pour les utilisateurs de windows...
+
+Demarrer -> programmes -> accessoires -> Invite de commande
+Taper: java -version
+Deux cas se presentent :
+
+soit "machin n est pas pas reconnu comme un msg interne..."
+et la il te faut installer ca : http://java.com/inc/BrowserRedirect1.jsp?locale=fr
+
+soit la version de ton java et là il faut que ce soit superieur en version à 5.
