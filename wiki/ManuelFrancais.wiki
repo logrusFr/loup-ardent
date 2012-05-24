@@ -11,16 +11,21 @@
 Les pre requis:
 un ordinateur
 un jre 5 minimum
-ouvrir une console (cmd.exe ou bash selon les gouts...)
-taper : java -jar ./loupArdent.jar
+ouvrir une console (cmd.exe ou bash selon les goûts...)
+taper : java -jar loupArdent.jar
 
 2.Plus d'infos pour les utilisateurs de windows...
 
 Demarrer -> programmes -> accessoires -> Invite de commande
 Taper: java -version
-Deux cas se presentent :
+Deux cas se présentent :
 
-soit "machin n est pas pas reconnu comme un msg interne..."
+* soit "machin n est pas pas reconnu comme un msg interne..."
 et la il te faut installer ca : http://java.com/inc/BrowserRedirect1.jsp?locale=fr
 
-soit la version de ton java et là il faut que ce soit superieur en version à 5.
+puis Menu démarrer -> Clic droit sur le poste de travail -> Propriété -> Onglet Avancé -> Bouton variable d'environnement
+Et la tu double clique sur la variable path en bas puis tu ajoute un point virgule a la fin des chemins et tu rajoutes "chemin de ton répertoire ou est installé java"\bin
+
+java sera exécutable partout !
+
+* soit la version de ton java et là il faut que ce soit supérieur ou égal en version à 5.
