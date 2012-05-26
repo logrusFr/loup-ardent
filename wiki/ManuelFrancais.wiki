@@ -1,10 +1,12 @@
 #summary manuel d'installation et d'utilisation.
 
-= Introduction =
+= Index =
 
 1.Utilisation
 
 2.Plus d'infos pour les utilisateurs de windows...
+
+3.Changelog
 
 = Details =
 1.Utilisation
@@ -29,3 +31,9 @@ Et la tu double clique sur la variable path en bas puis tu ajoute un point virgu
 java sera exécutable partout !
 
 * soit la version de ton java et là il faut que ce soit supérieur ou égal en version à 5.
+
+3.Changelog
+
+v0.1 : initiale
+v1.0 : Ajout de la gestion d Exterminator
+       Tests avec "La Horde des Démons"
