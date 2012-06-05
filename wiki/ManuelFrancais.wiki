@@ -13,7 +13,10 @@
 
 Les pre requis:
 un ordinateur
-un jre 5 minimum
+
+un environnement d'ecution Java (JRE) version 5 minimum
+(http://java.com/inc/BrowserRedirect1.jsp?locale=fr)
+
 ouvrir une console (cmd.exe ou bash selon les goûts...)
 taper : java -jar loupArdent.jar
 
