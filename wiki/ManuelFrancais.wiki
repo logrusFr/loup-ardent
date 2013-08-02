@@ -14,8 +14,10 @@
 Les pre requis:
 un ordinateur
 
-un environnement d'ecution Java (JRE) version 5 minimum
+un environnement d'execution Java (JRE) version 5 minimum
 (http://java.com/inc/BrowserRedirect1.jsp?locale=fr)
+
+Télécharger le fichier loupArdent.jar dans l onglet downloads de ce wiki ou directement sur cette URL https://code.google.com/p/loup-ardent/downloads/detail?name=loupArdent-v1.0.jar&can=2&q=
 
 ouvrir une console (cmd.exe ou bash selon les goûts...)
 taper : java -jar loupArdent.jar
