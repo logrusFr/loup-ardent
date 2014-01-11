@@ -30,7 +30,7 @@ Démarrer -> programmes -> accessoires -> Invite de commande
 Taper: java -version
 Deux cas se présentent :
 
-  * soit le texte "machin n est pas pas reconnu comme un msg interne..."
+  * soit le texte "java n'est pas reconnu en tant que commande interne ou externe, un programme exécutable ou un fichier de commande"
 et la il te faut installer ca : http://java.com/inc/BrowserRedirect1.jsp?locale=fr
 
 puis Menu démarrer -> Clic droit sur le poste de travail -> Propriété -> Onglet Avancé -> Bouton variable d'environnement
