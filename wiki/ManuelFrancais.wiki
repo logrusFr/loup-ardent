@@ -20,7 +20,7 @@ Les pré requis:
   * Télécharger le fichier loupArdent.jar dans l onglet downloads de ce wiki *OU* directement sur cette URL https://loup-ardent.googlecode.com/files/loupArdent-v1.0.jar
 
   * Ouvrir un interpréteur de commandes ou une console (cmd.exe ou bash selon les systèmes d'exploitation...)
-taper : java -jar loupArdent.jar
+taper par exemple : *java -jar loupArdent-v1.0.jar*
 
   * Suivre les instructions du menu texte affiché.
 
