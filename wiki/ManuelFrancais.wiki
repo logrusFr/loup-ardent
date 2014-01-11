@@ -22,7 +22,7 @@ Les pré requis:
   * Ouvrir un interpréteur de commandes ou une console (cmd.exe ou bash selon les systèmes d'exploitation...)
 taper : java -jar loupArdent.jar
 
-  * Suivre les instruction du menu texte.
+  * Suivre les instructions du menu texte affiché.
 
 *2.Plus d'infos pour les utilisateurs de windows pour installer un environnement JAVA...
 
