@@ -12,23 +12,23 @@
 *1.Utilisation
 
 Les pre requis:
-un ordinateur
+  * un ordinateur
 
-un environnement d'execution Java (JRE) version 5 minimum
+  * un environnement d'execution Java (JRE) version 5 minimum
 (http://java.com/inc/BrowserRedirect1.jsp?locale=fr)
 
-Télécharger le fichier loupArdent.jar dans l onglet downloads de ce wiki ou directement sur cette URL https://loup-ardent.googlecode.com/files/loupArdent-v1.0.jar
+Télécharger le fichier loupArdent.jar dans l onglet downloads de ce wiki *OU* directement sur cette URL https://loup-ardent.googlecode.com/files/loupArdent-v1.0.jar
 
-ouvrir une console (cmd.exe ou bash selon les goûts...)
+  * ouvrir un interpreteur de commandes ou une console (cmd.exe ou bash selon les systèmes d'exploitation...)
 taper : java -jar loupArdent.jar
 
-*2.Plus d'infos pour les utilisateurs de windows...
+*2.Plus d'informations pour les utilisateurs de Windows...
 
 Demarrer -> programmes -> accessoires -> Invite de commande
 Taper: java -version
 Deux cas se présentent :
 
--soit "machin n est pas pas reconnu comme un msg interne..."
+  * soit le texte "machin n est pas pas reconnu comme un msg interne..."
 et la il te faut installer ca : http://java.com/inc/BrowserRedirect1.jsp?locale=fr
 
 puis Menu démarrer -> Clic droit sur le poste de travail -> Propriété -> Onglet Avancé -> Bouton variable d'environnement
@@ -36,10 +36,11 @@ Et la tu double clique sur la variable path en bas puis tu ajoute un point virgu
 
 java sera exécutable partout !
 
--soit la version de ton java et là il faut que ce soit supérieur ou égal en version à 5.
+  * soit le texte te donnant la version de ton java et là il faut que le nombre donné soit supérieur ou égal 1.5.
 
 *3.Changelog
 
-v0.1 : initiale
-v1.0 : Ajout de la gestion d Exterminator
-       Tests avec "La Horde des Démons"
+  * v0.1 : Livraison initiale
+
+  * v1.0 : Ajout de la gestion d Exterminator
+       Testé avec "La Horde des Démons"
