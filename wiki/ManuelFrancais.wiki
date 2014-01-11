@@ -24,7 +24,7 @@ taper : java -jar loupArdent.jar
 
   * Suivre les instruction du menu texte.
 
-*2.Plus d'informations pour les utilisateurs de Windows...
+*2.Plus d'infos pour les utilisateurs de windows pour installer un environnement JAVA...
 
 Démarrer -> programmes -> accessoires -> Invite de commande
 Taper: java -version
