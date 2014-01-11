@@ -2,25 +2,27 @@
 
 = Index =
 
-1.Utilisation
+1.Étapes pour utiliser loup-ardent
 
 2.Plus d'infos pour les utilisateurs de windows pour installer un environnement JAVA...
 
 3.Changelog
 
 = Details =
-*1.Utilisation
+*1.Étapes pour utiliser loup-ardent
 
-Les pre requis:
-  * un ordinateur exécutant linux ou windows (ou autre...)
+Les pré requis:
+  * Un ordinateur exécutant linux ou windows (ou autre...)
 
-  * un environnement d'exécution Java (JRE) version 5 minimum
+  * Un environnement d'exécution Java (JRE) version 5 minimum
 (http://java.com/inc/BrowserRedirect1.jsp?locale=fr)
 
-Télécharger le fichier loupArdent.jar dans l onglet downloads de ce wiki *OU* directement sur cette URL https://loup-ardent.googlecode.com/files/loupArdent-v1.0.jar
+  * Télécharger le fichier loupArdent.jar dans l onglet downloads de ce wiki *OU* directement sur cette URL https://loup-ardent.googlecode.com/files/loupArdent-v1.0.jar
 
-  * ouvrir un interpreteur de commandes ou une console (cmd.exe ou bash selon les systèmes d'exploitation...)
+  * Ouvrir un interpréteur de commandes ou une console (cmd.exe ou bash selon les systèmes d'exploitation...)
 taper : java -jar loupArdent.jar
+
+  * Suivre les instruction du menu texte.
 
 *2.Plus d'informations pour les utilisateurs de Windows...
 
