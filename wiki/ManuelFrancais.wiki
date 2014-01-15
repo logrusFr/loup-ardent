@@ -65,3 +65,13 @@ java.io.FileNotFoundException: Loup.ser (Accès refusé)
 
   * SOLUTION
 lancer loupArdent-vx.y.jar dans un répertoire ou l utilisateur Windows qui lance la commande a les droits en écriture.
+
+exemple:
+  * copier loupArdent-v1.0.jar dans c:\Users\MonUser avec l explorateur
+  * lancer l interpréteur de commandes
+
+Taper :
+{{{
+        cd c:\Users\MonUser  (taper entrée sur le clavier)
+        java -jar loupArdent-v1.0.jar (taper entrée sur le clavier)
+}}}
