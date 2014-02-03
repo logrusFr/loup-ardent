@@ -1,6 +1,7 @@
 #summary manuel d'installation et d'utilisation.
 
 = Index =
+0.Nouveautés
 
 1.Étapes pour utiliser loup-ardent
 
@@ -11,6 +12,11 @@
 4.Problèmes connus
 
 = Details =
+*0.nouveautés
+L'executable ci apres rend obsolete les étapes (fastidieuses) ci apres pour les utilisateurs de windows:
+
+https://drive.google.com/file/d/0B8o5p18XEsgHbkxfX1VyNmYtNm8/edit?usp=sharing
+
 *1.Étapes pour utiliser loup-ardent
 
 Les pré requis:
