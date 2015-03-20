@@ -3,6 +3,15 @@ Automatically exported from code.google.com/p/loup-ardent
 
 #summary manuel d'installation et d'utilisation.
 
+-1.Description
+courte
+simulate gamebook character generation and combats for demonspawn serie.
+
+longue
+Simuler la création de personnage et les combats pour la série de livres dont vous êtes le héros "Loup*Ardent".
+
+Simulate character generation and combats for "Demonspawn" gamebook serie. 
+
 = Index =
 0.Nouveautés
 
@@ -59,7 +68,7 @@ java sera exécutable partout !
        Testé avec "La Horde des Démons"
 
 *4.Problèmes connus
-  
+
   * PROBLÈME
 J'ai créé un perso, les caract. s'affichent mais quand je veux l'enregistrer ça me fait:
 
