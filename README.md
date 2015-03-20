@@ -3,6 +3,13 @@ Automatically exported from code.google.com/p/loup-ardent
 
 #summary manuel d'installation et d'utilisation.
 
+-2 liens
+http://planete-ldvelh.com/page/liens.html
+http://en.wikipedia.org/wiki/Sagas_of_the_Demonspawn
+http://fr.wikipedia.org/wiki/Loup*_Ardent
+
+http://www.la-taverne-des-aventuriers.com/t3997-loupardent-outil-outil-pour-gerer-les-combats
+
 -1.Description
 courte
 simulate gamebook character generation and combats for demonspawn serie.
