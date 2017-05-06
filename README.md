@@ -1,5 +1,5 @@
 # loup-ardent
-Automatically exported from code.google.com/p/loup-ardent
+(Automatically exported from code.google.com/p/loup-ardent)
 
 #summary manuel d'installation et d'utilisation.
 
